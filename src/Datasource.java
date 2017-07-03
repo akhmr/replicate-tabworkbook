@@ -30,7 +30,6 @@ public class Datasource {
 	public Datasource(){
 		
 		connectionInfo = new HashMap<String,String>();
-//		colorInfoMap = new HashMap<String,String>();
 		colorFieldMap = new HashMap<String,HashMap<String,String>>();
 	}
 
